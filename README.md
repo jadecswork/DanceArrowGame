@@ -4,6 +4,6 @@ arrows (left arrow, down arrow, up arrow or right arrow) on the keyboard.
 
 project.py
 
-ArrowDancingGame.dmg
+MacOS: ArrowDancingGame.dmg
 
 ![game](danceArrowProject/game.png)
